@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac850e9e-e337-4d12-9b22-c233d94ee099" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XDLZ2bLkUX2kfa1ZA4wz69csI3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/BrowserDrivers" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hiren\IdeaProjects\WebTesT1\src\test\java\BrowserDrivers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.WebExercise1">
+    <configuration name="WebExercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.WebExercise1" />
+      <module name="WebTest1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebExercise1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WebTest1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.WebExercise1" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebExercise1.userShouldAbleToRegisterSuccessfully" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WebTest1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.WebExercise1" />
+      <option name="METHOD_NAME" value="userShouldAbleToRegisterSuccessfully" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WebExercise1" />
+        <item itemvalue="JUnit.WebExercise1.userShouldAbleToRegisterSuccessfully" />
+        <item itemvalue="Application.WebExercise1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac850e9e-e337-4d12-9b22-c233d94ee099" name="Default Changelist" comment="" />
+      <created>1580575770293</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580575770293</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1222" height="161" key="GridCell.Tab.0.bottom" timestamp="1580829692423">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="161" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580829692423" />
+    <state width="1222" height="161" key="GridCell.Tab.0.center" timestamp="1580829692423">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="161" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1580829692423" />
+    <state width="1222" height="161" key="GridCell.Tab.0.left" timestamp="1580829692423">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="161" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1580829692423" />
+    <state width="1222" height="161" key="GridCell.Tab.0.right" timestamp="1580829692423">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="161" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1580829692423" />
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1580654077452">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1580654077452" />
+    <state x="90" y="37" key="new project wizard" timestamp="1580829684342">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="90" y="37" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1580829684342" />
+    <state x="297" y="153" key="run.anything.popup" timestamp="1580657798655">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="153" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1580657798655" />
+  </component>
+</project>
